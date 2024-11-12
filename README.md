@@ -6,6 +6,8 @@ Aquí tienes una versión mejorada para el README de tu repositorio en GitHub. I
 
 MedScan es una aplicación iOS diseñada para facilitar la consulta de medicamentos y sus precios. Ofrece una interfaz intuitiva que permite a los usuarios buscar medicamentos, leer opiniones de otros usuarios y gestionar un historial de consultas. La aplicación también admite inicio de sesión mediante varios métodos de autenticación, brindando una experiencia segura y accesible.
 
+![onboarding](https://github.com/user-attachments/assets/b6683591-c767-4227-98d7-c0cf0f424855)
+
 ## Características
 
 - **Inicio de Sesión**: Los usuarios pueden autenticarse mediante email, Apple ID o cuenta de Google, ofreciendo comodidad y seguridad en el acceso.
@@ -22,18 +24,20 @@ MedScan es una aplicación iOS diseñada para facilitar la consulta de medicamen
 A continuación, se muestran capturas de pantalla que ilustran la funcionalidad y diseño de la aplicación. Puedes ver cada pantalla en el contexto de las secciones correspondientes.
 
 ### 1. Pantalla de Inicio de Sesión
-![Login Screen]([Imagenes/Simulator Screenshot - iPhone 16 Pro - 2024-11-12 at 09.55.41.png](https://github.com/JaimeYesidLeonParada/medscan/blob/main/Imagenes/Simulator%20Screenshot%20-%20iPhone%2016%20Pro%20-%202024-11-12%20at%2009.55.41.png))
+
+![Login](https://github.com/user-attachments/assets/b1739729-5f80-4b9b-a7cb-c24883b26d5f)
 
 ### 2. Pantalla de Inicio
-![Home Screen](ruta_a_la_imagen_home.png)
+
+![home](https://github.com/user-attachments/assets/c63bb973-b6b5-4d32-ae9b-e249d2b84328)
 
 ### 3. Historial de Medicamentos
-![Historial](ruta_a_la_imagen_historial.png)
+
+![historial](https://github.com/user-attachments/assets/6ef61290-1849-409b-9abd-d7deb4acf9a9)
 
 ### 4. Búsqueda de Medicamentos
-![Buscar Medicamentos](ruta_a_la_imagen_buscar.png)
 
-*Nota: Asegúrate de sustituir `ruta_a_la_imagen_*` con las rutas correctas de tus imágenes en el repositorio.*
+![buscar](https://github.com/user-attachments/assets/43bc1559-8f95-457a-bbef-86948d2c41f9)
 
 ## Instalación
 
@@ -52,5 +56,3 @@ A continuación, se muestran capturas de pantalla que ilustran la funcionalidad 
 - **UIKit**: Framework utilizado para la interfaz de usuario.
 
 ---
-
-Con esta estructura, tendrás un README más informativo y visualmente atractivo para los usuarios de GitHub interesados en tu proyecto.
