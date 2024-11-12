@@ -22,7 +22,7 @@ MedScan es una aplicación iOS diseñada para facilitar la consulta de medicamen
 A continuación, se muestran capturas de pantalla que ilustran la funcionalidad y diseño de la aplicación. Puedes ver cada pantalla en el contexto de las secciones correspondientes.
 
 ### 1. Pantalla de Inicio de Sesión
-![Login Screen](Imagenes/Simulator Screenshot - iPhone 16 Pro - 2024-11-12 at 09.55.41.png)
+![Login Screen]([Imagenes/Simulator Screenshot - iPhone 16 Pro - 2024-11-12 at 09.55.41.png](https://github.com/JaimeYesidLeonParada/medscan/blob/main/Imagenes/Simulator%20Screenshot%20-%20iPhone%2016%20Pro%20-%202024-11-12%20at%2009.55.41.png))
 
 ### 2. Pantalla de Inicio
 ![Home Screen](ruta_a_la_imagen_home.png)
